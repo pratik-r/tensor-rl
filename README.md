@@ -6,7 +6,7 @@ Manuscript available upon request.
 
 Code files labeled according to the corresponding figures in the paper: 
 
-- Figure 1: compare_methods_nobs.py \n
+- Figure 1: compare_methods_nobs.py
 - Figure 2: compare_methods_gamma.py
 - Figure 3: compare_methods_noise.py
 - Figure 4: compare_methods_rank.py
